@@ -4,6 +4,7 @@ functionality found in webframeworks without breaking the original API.
 For details and examples, please see the [documentation](http://godoc.org/github.com/surma/httptools).
 
 [![Build Status](https://drone.io/github.com/surma/httptools/status.png)](https://drone.io/github.com/surma/httptools/latest)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Faboutsource-test%2Fhttptools.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Faboutsource-test%2Fhttptools?ref=badge_shield)
 
 ## Contrived example
 
@@ -50,3 +51,7 @@ handler.
 
 ---
 Version 1.2.1
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Faboutsource-test%2Fhttptools.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Faboutsource-test%2Fhttptools?ref=badge_large)
